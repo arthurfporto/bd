@@ -12,7 +12,9 @@ Material de apoio da disciplina de Banco de Dados
 
 ## Atividades
 
-- <a href="atividades/lista01.pdf"> 01 - Modelo Conceitual </a>
+- <a href="atividades/lista01/lista01.pdf"> 01 - Modelo Conceitual </a>
+- <a href="atividades/lista02/lista02.pdf"> 02 - Modelo Lógico Relacional </a>
+- <a href="atividades/lista03/lista03.pdf"> 03 - Mapeamento </a>
 
 ## Material
 
