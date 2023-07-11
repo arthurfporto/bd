@@ -26,3 +26,5 @@ Material de apoio da disciplina de Banco de Dados
 ## Material
 
 - brModelo - http://www.sis4.com/brModelo/
+- exerciteSQL - https://github.com/arthurfporto/exerciteSQL
+- exerciteAlgebra - https://github.com/arthurfporto/exerciteAlgebra
