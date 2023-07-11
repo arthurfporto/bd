@@ -10,6 +10,7 @@ Material de apoio da disciplina de Banco de Dados
 - <a href="aulas/03-ModeloLogicoRelacional/03-ModeloLogicoRelacional.pdf"> 03 - Modelo Lógico Relacional</a>
 - <a href="aulas/04-Mapeamento/04-Mapeamento.pdf"> 04 - Mapeamento </a>
 - <a href="aulas/05-SQL/05-SQL.pdf"> 05 - SQL </a>
+- <a href="aulas/06-AlgebraRelacional/06-AlgebraRelacional.pdf"> 06 - Álgebra Relacional </a>
 
 ## Atividades
 
