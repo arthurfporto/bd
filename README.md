@@ -21,6 +21,7 @@ Material de apoio da disciplina de Banco de Dados
 - <a href="atividades/lista03/lista03.pdf"> 03 - Mapeamento </a>
 - <a href="atividades/lista04/lista04.pdf"> 04 - SQL </a>
 - <a href="atividades/lista05/lista05.pdf"> 05 - Álgebra Relacional </a>
+- <a href="atividades/lista06/lista06.pdf"> 06 - Normalização </a>
 
 ## Trabalhos
 
