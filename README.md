@@ -27,6 +27,11 @@ Material de apoio da disciplina de Banco de Dados
 
 - <a href="trabalhos/trabalho01/trabalho01.pdf"> 01 - SQL </a>
 
+## Seminários
+
+- <a href="trabalhos/seminario01/seminario01.pdf"> Seminários </a>
+
+
 ## Material
 
 - brModelo - http://www.sis4.com/brModelo/
