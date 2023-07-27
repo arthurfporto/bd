@@ -26,6 +26,7 @@ Material de apoio da disciplina de Banco de Dados
 ## Trabalhos
 
 - <a href="trabalhos/trabalho01/trabalho01.pdf"> 01 - SQL </a>
+- <a href="trabalhos/trabalho02/trabalho02.pdf"> 02 - SQL </a>
 
 ## Seminários
 
